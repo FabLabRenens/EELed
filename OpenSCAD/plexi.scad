@@ -3,4 +3,6 @@ DPlexi=Dint-6;
 HPlexi=3;
 
 // space for the plexy
-translate([0,0,0])cylinder(d=DPlexi,h=HPlexi);
+projection(cut=true) { 
+    translate([0,0,-1]) cylinder(d=DPlexi,h=2);
+}
