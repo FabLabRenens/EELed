@@ -1,5 +1,4 @@
-Dint=25.5;   // Octogone interne
-DPlexi=Dint-6;
+DPlexi=19;
 HPlexi=3;
 
 // space for the plexy
