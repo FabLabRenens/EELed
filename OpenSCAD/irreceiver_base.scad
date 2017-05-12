@@ -19,8 +19,7 @@ difference() {
 }
 
 
-e=.02;
-
+// TODO: space on the platform for the ir module bottom pins
 
 
 difference(){
