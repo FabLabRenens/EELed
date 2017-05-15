@@ -45,7 +45,6 @@ difference() {
 }
 
 // bottom case for plexi mirror
-
 difference() {
     translate([0,0,0])cylinder(d=Dext,h=HOctoInf,$fn=8);
     union() {
